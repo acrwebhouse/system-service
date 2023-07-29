@@ -1,0 +1,6 @@
+USER_BASIC_LOCATION=https://matchrentdev.com/user-basic-service
+SMTP_BASIC_LOCATION=https://matchrentdev.com/smtp-basic-service
+AUTH_BASIC_LOCATION=https://matchrentdev.com/auth-basic-service
+WEB_LOCATION=https://matchrentdev.com
+EMPLOYEES_BASIC_LOCATION=https://matchrentdev.com/employees-basic-service
+SWAGGER_IP=34.81.209.11
